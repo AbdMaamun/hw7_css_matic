@@ -1,0 +1,40 @@
+h1{
+	color: yellow;
+	text-align: center;
+
+}
+p{
+	text-align: center;
+	font-weight: 700;
+
+}
+.gradient{
+	margin: 40px 110px;
+	padding: 0 0 20px 0;
+	background: rgba(225,65,137,1);
+	background: -webkit-gradient(left top, right top, color-stop(0%, rgba(225,65,137,1)), color-stop(38%, rgba(219,36,109,1)), color-stop(54%, rgba(166,2,63,1)), color-stop(55%, rgba(163,0,60,1)), color-stop(100%, rgba(255,10,92,1)));
+	background: -webkit-linear-gradient(left, rgba(225,65,137,1) 0%, rgba(219,36,109,1) 38%, rgba(166,2,63,1) 54%, rgba(163,0,60,1) 55%, rgba(255,10,92,1) 100%);
+
+
+}
+.radius{
+	margin: 40px 110px;
+	padding: 0 0 20px 0;
+	border-radius: 100px 0px 100px 0px;
+	-webkit-border-radius: 100px 0px 100px 0px;
+	border: 10px dotted #f018f0;
+}
+.texture{
+	margin: 40px 110px;
+	padding: 0 0 20px 0;
+
+
+}
+.shadow{
+	margin: 40px 110px;
+	padding: 0 0 20px 0;
+	background-color: tomato;
+	-webkit-box-shadow: 17px 21px 12px 0px rgba(12,45,235,1);
+	box-shadow: 17px 21px 12px 0px rgba(12,45,235,1);
+
+}
